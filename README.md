@@ -1,7 +1,3 @@
-Here is a comprehensive, production-grade **`README.md`** tailored for your project repository. It includes all architecture details, dataset specs, training logs across epochs, API/UI setup instructions, and project structure.
-
----
-
 # 🔤 Seq2Seq Transformer English-to-Italian NMT
 
 An end-to-end Neural Machine Translation (NMT) pipeline implementing a custom **Sequence-to-Sequence Transformer** architecture built from scratch in **PyTorch** (based on *Attention Is All You Need*). The project is fully packaged and served via a **FastAPI** backend and an interactive **Streamlit** dashboard.
